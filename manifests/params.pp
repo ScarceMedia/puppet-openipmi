@@ -7,3 +7,4 @@ class openipmi::params {
       fail("${::osfamily} is not supported")
     }
   }
+}
