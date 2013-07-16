@@ -1,4 +1,4 @@
-name    'scarcemedia/fping'
+name    'scarcemedia/openipmi'
 version '0.0.1'
 source 'https://github.com/scarcemedia/puppet-openipmi'
 author 'scarcemedia'
